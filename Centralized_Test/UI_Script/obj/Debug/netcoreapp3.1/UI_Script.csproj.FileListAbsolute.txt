@@ -403,3 +403,4 @@ D:\git\Centralized\Centralized_Test\UI_Script\obj\Debug\netcoreapp3.1\UI_Script.
 D:\git\Centralized\Centralized_Test\UI_Script\obj\Debug\netcoreapp3.1\UI_Script.dll
 D:\git\Centralized\Centralized_Test\UI_Script\obj\Debug\netcoreapp3.1\UI_Script.pdb
 D:\git\Centralized\Centralized_Test\UI_Script\obj\Debug\netcoreapp3.1\UI_Script.genruntimeconfig.cache
+D:\git\Centralized\Centralized_Test\UI_Script\obj\Debug\netcoreapp3.1\UI_Script.csproj.AssemblyReference.cache

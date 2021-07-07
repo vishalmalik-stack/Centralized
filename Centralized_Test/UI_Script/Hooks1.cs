@@ -35,7 +35,7 @@ namespace UI_Script.Hook
         [AfterScenario]
         public void AfterScenario()
         {
-           _driver.Driver.Quit();
+           //_driver.Driver.Quit();
         }
     }
 }
