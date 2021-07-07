@@ -46,6 +46,7 @@ namespace UI_Script.Page
         public override void GoToUrl(string url)
         {
             _driver.Navigate().GoToUrl(url);
+            _driver.Manage().Window.Maximize();
         }
 
         public override void waitForelementExist(By locator)
@@ -74,6 +75,13 @@ namespace UI_Script.Page
                 Console.WriteLine(e.StackTrace);
 
             }
+        }
+
+        public void JavaScriptexecutor(By element)
+        {
+            IJavaScriptExecutor js = (IJavaScriptExecutor)_driver;
+            js.ExecuteScript("arguments[0].click();", _driver.FindElement(element));
+
         }
     }
 }

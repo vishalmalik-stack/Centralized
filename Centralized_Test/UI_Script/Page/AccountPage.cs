@@ -10,7 +10,7 @@ namespace UI_Script.Page
     
     public class AccountPage : BasePage
     {
-        By clickLogin = By.XPath("//a[@class='dropdown-toggle disabled']");
+        By clickLogin = By.CssSelector(".dropdown-toggle.disabled");
         By crmUsername = By.XPath("//input[@id='username']");
         By crmPassword = By.XPath("//input[@id='password']");
         By SubmitBtn = By.XPath("//input[@id='Login']");
@@ -26,19 +26,21 @@ namespace UI_Script.Page
         By enterFieldLbl = By.CssSelector("#MasterLabel");
         By enterFieldName = By.CssSelector("#DeveloperName");
         By ClickOnSave = By.CssSelector("div[class='pbBottomButtons'] input[title='Save']");
-
         By checkInfoSaved = By.XPath("//a[normalize-space()='Test']");
+
+        
         public AccountPage(IWebDriver driver):base(driver)
         {
             
         }
 
+        
         public void LoginCRM(string url,string userName,string password)
         {
-            GoToUrl(url);
-            waitForelementExist(clickLogin);
-            getElement(clickLogin).Click();
-            waitForelementExist(crmUsername);
+            GoToUrl(url);       
+            waitForelementExist(clickLogin);          
+            JavaScriptexecutor(clickLogin);
+            waitForelementVisible(crmUsername);
             getElement(crmUsername).SendKeys(userName);
             getElement(crmPassword).SendKeys(password);
             getElement(SubmitBtn).Click();

@@ -396,7 +396,6 @@ D:\git\Centralized\Centralized_Test\UI_Script\bin\Debug\netcoreapp3.1\zh-Hant\Mi
 D:\git\Centralized\Centralized_Test\UI_Script\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\git\Centralized\Centralized_Test\UI_Script\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 D:\git\Centralized\Centralized_Test\UI_Script\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\git\Centralized\Centralized_Test\UI_Script\obj\Debug\netcoreapp3.1\UI_Script.csproj.AssemblyReference.cache
 D:\git\Centralized\Centralized_Test\UI_Script\obj\Debug\netcoreapp3.1\UI_Script.AssemblyInfoInputs.cache
 D:\git\Centralized\Centralized_Test\UI_Script\obj\Debug\netcoreapp3.1\UI_Script.AssemblyInfo.cs
 D:\git\Centralized\Centralized_Test\UI_Script\obj\Debug\netcoreapp3.1\UI_Script.csproj.CoreCompileInputs.cache

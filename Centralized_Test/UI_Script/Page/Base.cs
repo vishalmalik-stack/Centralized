@@ -15,7 +15,7 @@ namespace UI_Script.Page
         public Base(IWebDriver driver)
         {
             _driver = driver;
-            wait = new WebDriverWait(_driver, TimeSpan.FromSeconds(20));
+            wait = new WebDriverWait(_driver, TimeSpan.FromSeconds(30));
         }
 
         public abstract string getPageTitle();
