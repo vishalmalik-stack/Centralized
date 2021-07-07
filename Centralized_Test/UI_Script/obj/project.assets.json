@@ -8823,11 +8823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#projects\\Centralized_Test\\UI_Script\\UI_Script.csproj",
+      "projectUniqueName": "D:\\git\\Centralized\\Centralized_Test\\UI_Script\\UI_Script.csproj",
       "projectName": "UI_Script",
-      "projectPath": "D:\\C#projects\\Centralized_Test\\UI_Script\\UI_Script.csproj",
+      "projectPath": "D:\\git\\Centralized\\Centralized_Test\\UI_Script\\UI_Script.csproj",
       "packagesPath": "C:\\Users\\vmalik\\.nuget\\packages\\",
-      "outputPath": "D:\\C#projects\\Centralized_Test\\UI_Script\\obj\\",
+      "outputPath": "D:\\git\\Centralized\\Centralized_Test\\UI_Script\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

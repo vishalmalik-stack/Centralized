@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#projects\\Centralized_Test\\API_Script\\API_Script.csproj": {}
+    "D:\\git\\Centralized\\Centralized_Test\\API_Script\\API_Script.csproj": {}
   },
   "projects": {
-    "D:\\C#projects\\Centralized_Test\\API_Script\\API_Script.csproj": {
+    "D:\\git\\Centralized\\Centralized_Test\\API_Script\\API_Script.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#projects\\Centralized_Test\\API_Script\\API_Script.csproj",
+        "projectUniqueName": "D:\\git\\Centralized\\Centralized_Test\\API_Script\\API_Script.csproj",
         "projectName": "API_Script",
-        "projectPath": "D:\\C#projects\\Centralized_Test\\API_Script\\API_Script.csproj",
+        "projectPath": "D:\\git\\Centralized\\Centralized_Test\\API_Script\\API_Script.csproj",
         "packagesPath": "C:\\Users\\vmalik\\.nuget\\packages\\",
-        "outputPath": "D:\\C#projects\\Centralized_Test\\API_Script\\obj\\",
+        "outputPath": "D:\\git\\Centralized\\Centralized_Test\\API_Script\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
