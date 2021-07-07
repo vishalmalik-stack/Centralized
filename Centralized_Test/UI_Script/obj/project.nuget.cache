@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "784sPdLMMg7OHEq3HTbfgqg07jTGGPM613aIg7BGDnro0uN6HqQkf2lcwz3W18vJsfkYtrv7w0oRWVLEr3ySEA==",
+  "dgSpecHash": "rJeY8ELz8jpMzVkfelF3v4WIvZIfeF55bsfofo5Xt1WZQZnIVg0vR4VTtShvJgCrfyvvbOh2IrAdJFPtgixg3w==",
   "success": true,
   "projectFilePath": "D:\\git\\Centralized\\Centralized_Test\\UI_Script\\UI_Script.csproj",
   "expectedPackageFiles": [
@@ -35,7 +35,6 @@
     "C:\\Users\\vmalik\\.nuget\\packages\\mongodb.bson\\2.8.0\\mongodb.bson.2.8.0.nupkg.sha512",
     "C:\\Users\\vmalik\\.nuget\\packages\\mongodb.driver\\2.8.0\\mongodb.driver.2.8.0.nupkg.sha512",
     "C:\\Users\\vmalik\\.nuget\\packages\\mongodb.driver.core\\2.8.0\\mongodb.driver.core.2.8.0.nupkg.sha512",
-    "C:\\Users\\vmalik\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512",
     "C:\\Users\\vmalik\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\vmalik\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
     "C:\\Users\\vmalik\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
@@ -65,7 +64,6 @@
     "C:\\Users\\vmalik\\.nuget\\packages\\specflow\\3.9.8\\specflow.3.9.8.nupkg.sha512",
     "C:\\Users\\vmalik\\.nuget\\packages\\specflow.assist.dynamic\\1.4.2\\specflow.assist.dynamic.1.4.2.nupkg.sha512",
     "C:\\Users\\vmalik\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
-    "C:\\Users\\vmalik\\.nuget\\packages\\specflow.mstest\\3.9.8\\specflow.mstest.3.9.8.nupkg.sha512",
     "C:\\Users\\vmalik\\.nuget\\packages\\specflow.nunit\\3.9.8\\specflow.nunit.3.9.8.nupkg.sha512",
     "C:\\Users\\vmalik\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.8\\specflow.tools.msbuild.generation.3.9.8.nupkg.sha512",
     "C:\\Users\\vmalik\\.nuget\\packages\\specrun.runner\\3.9.7\\specrun.runner.3.9.7.nupkg.sha512",
