@@ -188,6 +188,7 @@ D:\git\Centralized\Centralized_Test\API_Script\bin\Debug\netcoreapp3.1\zh-Hans\M
 D:\git\Centralized\Centralized_Test\API_Script\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\git\Centralized\Centralized_Test\API_Script\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\git\Centralized\Centralized_Test\API_Script\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\git\Centralized\Centralized_Test\API_Script\obj\Debug\netcoreapp3.1\API_Script.csproj.AssemblyReference.cache
 D:\git\Centralized\Centralized_Test\API_Script\obj\Debug\netcoreapp3.1\API_Script.AssemblyInfoInputs.cache
 D:\git\Centralized\Centralized_Test\API_Script\obj\Debug\netcoreapp3.1\API_Script.AssemblyInfo.cs
 D:\git\Centralized\Centralized_Test\API_Script\obj\Debug\netcoreapp3.1\API_Script.csproj.CoreCompileInputs.cache
